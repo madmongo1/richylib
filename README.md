@@ -1,2 +1,2 @@
 # richylib
-A Library of interesting an useful things
+A Library of interesting and useful things
